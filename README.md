@@ -18,6 +18,8 @@
 
 - **链接** <https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt>
 
+- **链接-严格版** <https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt>
+
 - **测试版本** zhihu 6.27.0 或 zhihu explore 1.0.0
 
 - **功能**
@@ -29,3 +31,4 @@
   - 去除回答底部的广告
   - 去除评论区广告
   - 去除个人中心的 VIP 横幅
+  - 去除知乎会员推荐的内容（严格版）
